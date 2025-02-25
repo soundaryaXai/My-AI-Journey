@@ -50,11 +50,7 @@ This is my personal space for learning, building, and sharing AI & DS projects. 
 
 ---
 
-📌 Let's Connect!
-
-💼 LinkedIn
-🐦 Twitter (if any)
-📂 Portfolio (if any)
+📌 Let's Connect !
 
 Feel free to follow my journey, contribute, or suggest ideas! Let’s grow together in this field. 🚀
 
